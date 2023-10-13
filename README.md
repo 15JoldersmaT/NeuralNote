@@ -10,3 +10,5 @@ They then select between these series of notes. This series is taken, and slight
 The user is then presented with three new note series, the one they just selected, a new slightly modified version, and a very modified version. 
 
 The user repeats this to produce interesting sets of notes. 
+
+Audio downloaded from pixabay
